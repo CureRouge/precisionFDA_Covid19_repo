@@ -31,6 +31,7 @@ libcurl4-gnutls-dev libgsl-dev libgsl23 libsodium23 libssl-dev libxml2-dev nodej
 
 ### Install R packages
 ```R
+sudo R
 install.packages(c("IRkernel", "data.table", "RSQLite", "sqldf", "BiocManager")) 
 yes
 yes
